@@ -1,4 +1,1 @@
-node-logmagic-logstash
-======================
-
-A logstash sink for logmagic.
+A sink for logmagic that outputs to logstash via udp.

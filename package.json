@@ -1,0 +1,26 @@
+{
+  "name": "logmagic-logstash",
+  "version": "0.0.1",
+  "description": "A logmagic sink that outputs to logstash using udp.",
+  "main": "./lib/logstash.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jirwin/node-logmagic-logstash.git"
+  },
+  "keywords": [
+    "logmagic",
+    "logstash",
+    "udp"
+  ],
+  "devDependencies": {
+    "logmagic": "~0.1.4",
+    "mocha": "~1.16.2",
+    "should": "~2.1.1"
+  },
+  "author": "Justin Gallardo <justin.gallardo@gmail.com>",
+  "license": "Apache v2",
+  "homepage": "https://github.com/jirwin/node-logmagic-logstash"
+}
