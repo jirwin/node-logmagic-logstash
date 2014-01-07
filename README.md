@@ -1,3 +1,4 @@
+<a href="https://nodei.co/npm-dl/logmagic-logstash/"><img src="https://nodei.co/npm-dl/logmagic-logstash.png"></a>
 # node-logmagic-logstash
 A sink for logmagic that outputs to logstash via udp.
 
